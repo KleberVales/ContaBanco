@@ -1,6 +1,6 @@
 # ContaBanco
 
-Este é um projeto básico desenvolvido como parte do desafio da Digital Innovation One (DIO) na trilha de Java Básico. O objetivo do projeto é consolidar conceitos fundamentais de sintaxe Java, como entrada de dados via terminal, manipulação de strings e exibição de informações formatadas.
+Este é um projeto básico desenvolvido como parte do Bootcamp Java com Spring Boot da Digital Innovation One (DIO) na trilha de Java Básico. O objetivo do projeto é consolidar conceitos fundamentais de sintaxe Java, como entrada de dados via terminal, manipulação de strings e exibição de informações formatadas.
 
 ### 📝 Descrição
 O programa permite ao usuário criar uma conta bancária fictícia fornecendo os seguintes dados via terminal:
